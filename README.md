@@ -11,4 +11,4 @@ Select one of existing picture "/verstation/www/img/test-markup"
 
 After the image processing on the edit area you can change your elements (size, position), add text - click on relevant buttons of the top of area.
 
-"View source" button - get the source code.
+"View source" button - click to get the source code.
