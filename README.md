@@ -1,6 +1,6 @@
 # Demo steps
 
-Open "/verstation/www/index.html" on browser
+Open "/verstation/www/index.html" in browser
 
 Select one of existing picture "/verstation/www/img/test-markup"
 
